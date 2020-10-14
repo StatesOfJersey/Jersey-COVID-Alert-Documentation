@@ -12,10 +12,10 @@ The App has been developed on behalf of Jersey’s Contact Tracing Team who are 
 *	It is extremely unlikely that you could be identified by other users while using the App.
 
 The App has specifically been designed so that it will:
-*	Never know your location
-*	Never know your name or address 
-*	Never know the Phone’s contacts
-*	Never know details of your health  
+*	Never know your location.
+*	Never know your name or address. 
+*	Never know the Phone’s contacts.
+*	Never know details of your health.  
 
 ## Purpose of the App 
 The primary purpose of this App is to reduce the spread of Covid-19 by providing an Exposure Notification service. If you receive a positive Covid-19 diagnosis, the Exposure Notification service allows you to anonymously alert people you have been too close to for too long a period (a close physical contact) prior to your diagnosis. The App also allows you to receive alerts notifying you if you have been in close physical contact with someone, prior to their diagnosis, who has Covid-19. 
@@ -130,20 +130,20 @@ Further information on your rights can be found on the [Jersey Office of the Inf
 The App contains a link to the Covid website: https://covidalert.gov.je
 
 ## Complaints
-If you are unhappy with any aspect of this privacy notice, or with how your personal information is being processed, please contact the Data Protection Officer at the following address:
+If you are unhappy with any aspect of this privacy notice, or with how your personal information is being processed, please contact the Data Protection Officer at the following address:  
 **Email:** DPO@gov.je
 
 If you are still not happy, you have the right to complain to the Office of the Information Commissioner (JOIC):
 
 **Address:**
-Jersey Office of the Information Commissioner
-2nd Floor
-5 Castle Street
-St. Helier
-Jersey
-JE2 3BT
+Jersey Office of the Information Commissioner  
+2nd Floor  
+5 Castle Street  
+St. Helier  
+Jersey  
+JE2 3BT  
 
-**Email:** enquiries@jerseyoic.org
+**Email:** enquiries@jerseyoic.org  
 **Website:** https://jerseyoic.org
 
 ## Contact us about Security Concerns
