@@ -450,10 +450,10 @@ If you are travelling to a country with a compatible app (see list SECTION LINK 
 
 If you are using mobile data while roaming and have given the app permission to access the internet over mobile data, be aware that the app’s data usage may increase your bill. Consider turning off mobile data for the app except for a daily check in, or consider whether you can use Wi-Fi to avoid excessive roaming charges.
 
-For further information about roaming and data charges, check your mobile provider.
-See information about roaming for [Airtel customers](https://www.airtel-vodafone.com/discover/our-network/roaming-jersey)
-See information about roaming for [JT customers](https://www.jtglobal.com/global/roaming/)
-See information about roaming for [Sure customers](https://www.sure.com/jersey/mobile/roaming-charges/)
+For further information about roaming and data charges, check your mobile provider.  
+See information about roaming for [Airtel customers](https://www.airtel-vodafone.com/discover/our-network/roaming-jersey)  
+See information about roaming for [JT customers](https://www.jtglobal.com/global/roaming/)  
+See information about roaming for [Sure customers](https://www.sure.com/jersey/mobile/roaming-charges/)  
 
 # Workplace advice
 ## For employers
