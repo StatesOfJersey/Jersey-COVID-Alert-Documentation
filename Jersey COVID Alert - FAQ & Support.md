@@ -9,7 +9,6 @@ The Jersey COVID Alert is a free app for your Apple or Android smartphone.
 
 [GRAPHIC App store screenshots]
 
-
 3.	If your device is compatible, click Install.
 4.	Follow the installation process.
 
@@ -28,9 +27,10 @@ To Uninstall the app:
 
 ## Compatible smartphones and software requirements
 You should be able to use the app if your phone:
-•	is approximately less than 5 years old
-•	uses Apple's iOS version 13.5 or higher – iPhone 6s and above
-•	or uses Google's Android version 6.0 or higher
+
+* is approximately less than 5 years old
+* uses Apple's iOS version 13.5 or higher – iPhone 6s and above
+* or uses Google's Android version 6.0 or higher
 
 If your smartphone doesn’t support the Apple and Google Exposure Notification Services, don’t worry – the Jersey Contact Tracing Team is still fully operational and will be in touch to support you if you are diagnosed with COVID-19, or if someone else with COVID-19 identifies you verbally as a direct contact. 
 
@@ -99,16 +99,16 @@ Dacă doriți să schimbați limba:
 ## How to use the Pause function
 The Pause function is designed to help you manage short periods when your phone might detect the present of other people, but there are very good barriers to transmission of the virus between you. Some specific instances include:
 
-•	you are alone in a room with thin walls while others are outside/next door
-•	you are alone in vehicle
-•	you are in a clinical setting wearing full, medical grade PPE (mask, googles, gloves, suit)
-•	you are protected by a fixed physical barrier from customers and colleagues such as a Perspex screen for the majority of the working day
-•	you leave your phone in a locker or somewhere else not on your person
+* you are alone in a room with thin walls while others are outside/next door
+* you are alone in vehicle
+* you are in a clinical setting wearing full, medical grade PPE (mask, googles, gloves, suit)
+* you are protected by a fixed physical barrier from customers and colleagues such as a Perspex screen for the majority of the working day
+* you leave your phone in a locker or somewhere else not on your person
 
 The app should NOT be paused in the following scenarios: 
 
-•	when you are behind a small screen (e.g. at a check out, or counter) and you constantly move around (e.g. café workers behind tills with a screen who also move around the café) 
-•	where PPE, including visors and face coverings, is used in non-clinical settings (e.g. wearing masks in shops, building sites, cafés, by other health or official workers)
+* when you are behind a small screen (e.g. at a check out, or counter) and you constantly move around (e.g. café workers behind tills with a screen who also move around the café) 
+* where PPE, including visors and face coverings, is used in non-clinical settings (e.g. wearing masks in shops, building sites, cafés, by other health or official workers)
 
 The Pause cannot be activated without setting a reminder, which can be up to 24 hours after pausing, although you can continue to pause after the reminder has been sent. If you are isolated from others, you may wish to set the reminder for your next break, when you leave your home, or when you know you will be around others again.
 
@@ -184,12 +184,15 @@ It is your choice to do this, and you can complete the process later if needed.
 Only the Contact Tracing Team can issue upload codes for people who get COVID-19. If you do not have an authorised test which provides a high degree of certainty that you have the COVID-19, you will not be able to use this function on the app.
 
 ## The call back from Contact Tracing
-Jersey has an excellent Contact Tracing Team who are available to give help and support to everyone who is diagnosed with COVID-19 and to everyone who is potentially a direct contact of an infected person. 
+Jersey has an excellent Contact Tracing Team who are available to give help and support to everyone who is diagnosed with COVID-19 and to everyone who is potentially a direct contact of an infected person.
+
 When you get an exposure alert it means you may have been exposed to someone with COVID-19 who could have put you at risk. As a potentially infected person, the Contact Tracing Team will discuss your individual situation and may offer you a test.
+
 The call back function allows you to request a call from the Contact Tracing Team immediately upon the receipt of an exposure alert. By storing your mobile phone number in the app, the app is prepared to automatically send the request when you get the alert. Your phone number is only sent to the Contact Tracing Team if you get an exposure alert, it stays security stored on your phone until then. 
 
 ## Using Bluetooth to detect proximity
-During the app set-up process you’ll be asked to give the app permission to use the Exposure Notification Services on 3your phone. Bluetooth always needs to remain on for Exposure Notifications to work. 
+During the app set-up process you’ll be asked to give the app permission to use the Exposure Notification Services on 3your phone. Bluetooth always needs to remain on for Exposure Notifications to work.
+
 The app uses the strength of the received Bluetooth signal to estimate the distance between two devices with the app installed. The apps communicate over Bluetooth regularly, and can also estimate the length of time two app users were close to each other. The app has been designed to make the best use of Bluetooth technology, even though Bluetooth wasn’t originally designed to fulfil this function.
 
 The app will be able to calculate if you have been too close for too long to someone who has COVID-19. Initially, too close for too long means closer than 2 metres for more than 15 minutes, this may change in accordance with Public Health advice. Most of the time the app will provide an accurate estimate of the distance between you and the other app user, but this part of the system is not perfect due to interference in the Bluetooth signals caused by environmental factors. 
@@ -206,9 +209,9 @@ Using a Random ID means any information about close contact events is collected 
 
 The app and other app users will **never** know:
 
-•	your identity or the identities of anyone you met
-•	your location or movements
-•	the identity of people with COVID-19
+* your identity or the identities of anyone you met
+* your location or movements
+* the identity of people with COVID-19
 
 Read more about the Exposure Notification Service on [Android](https://www.google.com/covid19/exposurenotifications/)
 Read more about the Exposure Notification Service on [iOS](https://covid19.apple.com/contacttracing)
@@ -285,14 +288,15 @@ This can be accessed with your device passcode (on Samsung), and is a list of wh
 ## How the app protects your privacy
 Privacy-by-design has underpinned all aspects of the app development. The Exposure Notification Service design was carefully developed by Google, Apple and a variety of academic institutions to protect your privacy. The focus of the Exposure Notification Service is on estimating the proximity between two devices over time. We can then ensure that you are notified when you have been near to someone who has COVID-19 and that you receive up to date advice and, if you choose to supply your phone number, information and support from the Contact Tracing Team. GPS and location data or any other data stored on your phone is not of interest and would not contribute to the goal of alerting you if you have been near someone who has COVID-19.
 
-•	no unnecessary data
-•	no unnecessary permissions
-•	no data sharing
-•	no tracking 
-•	no personal data needed to sign in
-•	encrypted connections
-•	encrypted data storage
-•	always your choice – the app is voluntary. 
+* no unnecessary data
+* no unnecessary permissions
+* no data sharing
+* no tracking 
+* no personal data needed to sign in
+* encrypted connections
+* encrypted data storage
+* always your choice – the app is voluntary.
+
 Read about [privacy and how we use your data](https://covidalert.gov.je/data-and-privacy)
 
 ## No personal data is shared without your consent
@@ -311,8 +315,8 @@ On 15 April 2020, the European Commission published recommendations specifically
 Because of concerns that such apps could potentially affect the privacy of EU citizens, a further paper was published by the European Commission on 16th April with guidance on data protection and apps developed to support the COVID-19 response in Member States. 
 The key messages from these documents are:
 
-•	use of contact tracing apps should be voluntary 
-•	data privacy rights for EU citizens must be respected, even during the pandemic.
+* use of contact tracing apps should be voluntary 
+* data privacy rights for EU citizens must be respected, even during the pandemic.
 
 ## No law or regulation change was needed
 Because the app is voluntary and does not process personal information, there was no need to change any regulations or laws. The app operates entirely within the letter and spirit of Jersey’s current laws and regulations.
@@ -323,13 +327,13 @@ The data is decentralised because all privacy-sensitive information is stored on
 ## Publicly accessible information from the app
 The information provided back to the Contact Tracing Team from the app includes the following aggregated statistics. The app does not know and cannot share the identity of app users.
 
-•	total number of users who open the app at least once per day
-•	total number of downloads per day
-•	total number of users who drop out during on boarding
-•	total number of users who Leave or delete the app
-•	total number of users who have Exposure Alerts enabled
-•	total daily number of exposure alerts generated
-•	total number of app users who uploaded random codes
+* total number of users who open the app at least once per day
+* total number of downloads per day
+* total number of users who drop out during on boarding
+* total number of users who Leave or delete the app
+* total number of users who have Exposure Alerts enabled
+* total daily number of exposure alerts generated
+* total number of app users who uploaded random codes
 
 Anonymous and aggregated data may be made available to the public through the existing coronavirus information channels and will follow the same approach to reporting other coronavirus statistics.
 
@@ -459,10 +463,10 @@ The alert means that an exposure to someone with COVID-19 is likely but not 100%
 
 We would ask all employers to:
 
-•	encourage and support employees to use the app – but not make it a requirement
-•	continue to follow existing public health workplace guidance to ensure a COVID-19 safe workplace
-•	encourage staff to look out for symptoms and request a test and isolate as soon as they develop any COVID-19-related symptoms
-•	continue to support employees needing to self-isolate, whether notified through the app or otherwise
+* encourage and support employees to use the app – but not make it a requirement
+* continue to follow existing public health workplace guidance to ensure a COVID-19 safe workplace
+* encourage staff to look out for symptoms and request a test and isolate as soon as they develop any COVID-19-related symptoms
+* continue to support employees needing to self-isolate, whether notified through the app or otherwise
 
 ## For employees
 The Jersey COVID Alert app is an entirely voluntary app, it is always your choice to use it. 
@@ -480,5 +484,3 @@ We recommend using the Pause function only when wearing medical grade PPE in a c
 V7	Added new employers advice from SPPP	05-10-20 RSW
 V8	Reorganised sections; added battery optimisation, how to turn ENS on/off	12-10-20 RSW
 V9  Markdown formatting 15-10-20 MB
-		
-		
